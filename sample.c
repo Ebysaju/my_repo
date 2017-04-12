@@ -4,4 +4,12 @@ int main()
  int c;
  c=6+8;
 return 0;
-}
+}pjerpsejsjjrsj
+
+areahj
+aeha
+h
+
+h
+g
+eh
